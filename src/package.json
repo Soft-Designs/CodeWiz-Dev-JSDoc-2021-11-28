@@ -1,0 +1,10 @@
+{
+    "devDependencies": {
+      "typescript": "^4.5.2"
+    },
+    "scripts": {
+      "check": "tsc --project jsconfig.json",
+      "check:watch": "tsc --watch --project jsconfig.json"
+    }
+  }
+  
